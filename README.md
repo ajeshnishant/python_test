@@ -4,7 +4,7 @@
 ## step 3: Setup a virtual environment and install all the requirements.
 ## step 4: Activate the virtual environment and run the django server.
 
-## Allowed File type are:-
+## Allowed Audio File Types are:-
 ### Song
 ### Audiobook
 ### Podcast
